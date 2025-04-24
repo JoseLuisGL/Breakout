@@ -2,7 +2,7 @@ let ball;
 let paddle;
 let bricks = [];
 let cols = 5;
-let rows = 3;
+let rows = 1;
 let brickWidth;
 let brickHeight = 20;
 let lives = 3;
